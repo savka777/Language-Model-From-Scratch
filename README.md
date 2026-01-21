@@ -1,8 +1,6 @@
-# 📊 N-Gram Language Model
-
 <div align="center">
 
-**A Statistical Approach to Natural Language Generation**
+**A Statistical (n gram) Approach to Natural Language Generation**
 
 Built with NLTK • Brown Corpus • Google Gemini
 
