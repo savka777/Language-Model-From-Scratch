@@ -2,7 +2,7 @@
 
 **A Statistical (n gram) Approach to Natural Language Generation**
 
-Built with NLTK • Brown Corpus • Google Gemini
+Built with NLTK • Brown Corpus
 
 ---
 
